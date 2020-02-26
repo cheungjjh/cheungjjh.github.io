@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<title>Seeking Consilience</title>
 <Head lang="en">
-<meta charset="UTF-8">  
+<meta charset="UTF-8">
+<Title>Seeking Consilience</Title>
 Seeking Consilience</Head>
 <Body>
   <h1>Testing</h1>
