@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <Head lang="en">
-
-<Title>Seeking Consilience</Title>
+<meta charset="proxima nova">
 Seeking Consilience</Head>
 <Body>
   <h1>Testing</h1>
