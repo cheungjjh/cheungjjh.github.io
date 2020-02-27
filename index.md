@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <Head lang="en">
 <meta charset="proxima nova">
