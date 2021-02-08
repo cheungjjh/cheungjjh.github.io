@@ -112,20 +112,20 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #41228e;
+  background: #141414;
   color: #fff;
 }
 
 .btn-primary:active {
-  background: #542cb7 !important;
+  background: #141414 !important;
 }
 
 .btn-primary:hover {
-  background: #542cb7;
+  background: #141414;
 }
 
 .btn-primary.focus, .btn-primary.active {
-  background: #542cb7 !important;
+  background: #141414 !important;
   box-shadow: none !important;
 }
 
@@ -145,12 +145,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #542cb7;
+  background: #141414;
   color: #fff;
 }
 
 ::selection {
-  background: #542cb7;
+  background: #141414;
   color: #fff;
 }
 
@@ -251,11 +251,11 @@ a:hover {
 }
 
 .bg-primary {
-  background: #41228e !important;
+  background: #141414 !important;
 }
 
 .bg-gray {
-  background: #eaeaea !important;
+  background: #141414 !important;
 }
 
 .text-primary {
